@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tayl0rt.github.io
+title: Taylor Thompson
+tagline: Nerd
+description: My awesome new site
+paginate: 5
