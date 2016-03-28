@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://tayl0rt.github.io
 title: Taylor Thompson
-tagline: Nerd
-description: My awesome new site
+tagline: Web Nerd
+description: Hi! I write software. Welcome to my random happenings.
 paginate: 5
